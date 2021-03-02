@@ -1,0 +1,61 @@
+body{
+	background-color: skyblue;
+}
+.container{
+	height: 450px;
+	/*background-color: blue;*/
+	width: 30%;
+	margin: auto;
+	margin-top: 150px;
+	overflow: hidden;
+	border-radius: 10px;
+	
+}
+.firstbox{
+	background: url("images/bubble.svg");
+	height: 150px;
+}
+.photo{
+	border-radius: 100%;
+	margin-top: 100px;
+	margin-left: 150px;
+}
+.secondbox{
+	background-color: #fff;
+	height: 350px;
+	
+}
+.secondbox1{
+	text-align: center;
+	padding: 60px;
+}
+.name{
+	font-size: 17px;
+	font-family: sans-serif;
+}
+.number{
+	font-size: 17px;
+	color: black; 
+	opacity: .7;
+}
+.city{
+	font-size: 15px;
+	color: black;
+	opacity: .7;
+}
+.secondbox2{
+   text-align: center;
+   margin-top: 50px;
+}
+.figure{
+	color: black;
+	font-family: sans-serif;
+	font-size: 17px;
+}
+.letters{
+	color: black;
+	opacity: .7;
+}
+a {
+	text-decoration: none;
+}
